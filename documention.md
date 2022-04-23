@@ -88,7 +88,7 @@ Before installing the actual bot other apps have to be installed.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The usage of the bot can be found in the documentation section as well as the usage of our custom built in bot API. 
+The usage of the bot can be found in the [documentation section](https://github.com/Zeroknights16/Ice_Dev_MC-Server_Bot) as well as the usage of our custom built in bot API. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

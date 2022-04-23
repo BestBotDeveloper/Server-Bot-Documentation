@@ -79,12 +79,11 @@ Ice Dev's Server Bot is a premium only, fully customizable Discord bot that is c
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Create a purchase ticket in our discord. Once the payment went through you can download the latest version of the bot.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Before installing the actual bot other packages have to be installed.
 * npm
   ```sh
   npm install npm@latest -g

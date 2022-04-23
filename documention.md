@@ -96,20 +96,15 @@ Before installing the actual bot other apps have to be installed.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+1. Create a discord bot and invite it to your discord server. An example can be found [here](https://www.youtube.com/watch?v=JMmUW4d3Noc&t=302s).
+2. Configure the bot via configuration files. These files can be found at path _/src/database/configuration/configuration/_
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Start the application by typing node index.js in console.
+   ```sh
+   node index.js
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>

@@ -83,10 +83,15 @@ Create a purchase ticket in our discord. Once the payment went through you can d
 
 ### Prerequisites
 
-Before installing the actual bot other packages have to be installed.
+Before installing the actual bot other apps have to be installed.
+* [Node.js](https://nodejs.org/en/download/)
 * npm
   ```sh
   npm install npm@latest -g
+  ```
+* pm2
+  ```sh
+  npm install pm2 -g
   ```
 
 ### Installation

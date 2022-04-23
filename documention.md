@@ -114,9 +114,7 @@ Before installing the actual bot other apps have to be installed.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The usage of the bot can be found in the documentation as well as the usage of our custom built in bot API. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -125,15 +123,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] Bundle System
+- [x] New licensing system
+- [x] 100% Congiruable messages
+- [ ] User linking
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -14,13 +14,13 @@
   <p align="center">
     An awesome Discord Bot for Faction, Skyblock & Prison server!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"></strong></a>
+    <a href="https://discord.gg/tsG2ZJW9"></strong></a>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://discord.gg/tsG2ZJW9">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://discord.gg/tsG2ZJW9">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://discord.gg/tsG2ZJW9">Request Feature</a>
   </p>
 </div>
 
@@ -28,7 +28,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table of Contents (Click Me)</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>

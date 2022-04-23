@@ -29,7 +29,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Ice Dev's Server Bot is a premium only, fully customizable Discord bot that is constantly growing. You can join the official Ice Development Support Server for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
+Ice Dev's Server Bot is a premium only, fully customizable Discord bot that is constantly growing. The bot includes 80+ commands as well as over 30+ different event features. The custom built in bot API gives you the opportunity to add everything you like on your own.
+
+You can join the official Ice Development Support Server for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

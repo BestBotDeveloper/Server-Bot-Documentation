@@ -21,8 +21,7 @@
   <p align="center">
     An awesome Discord Bot for Faction, Skyblock & Prison server!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"></strong></a>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·

@@ -102,9 +102,9 @@ Before installing the actual bot other apps have to be installed.
    ```sh
    npm install
    ```
-4. Start the application by typing node index.js in console.
+4. Start the application by typing **node index.js** or **pm2 start index.js** in console.
    ```sh
-   node index.js
+   node index.js or pm2 start index.js
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>

@@ -28,7 +28,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents (Click Me)</summary>
+  <summary>Table of Contents _(Click Me)_</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>

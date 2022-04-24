@@ -99,7 +99,7 @@ The usage of the bot can be found in the [documentation section](https://github.
 
 - [x] Bundle System
 - [x] New licensing system
-- [x] 100% Congiruable messages
+- [x] 100% Configurable messages
 - [ ] User linking
 
 <p align="right">(<a href="#top">back to top</a>)</p>

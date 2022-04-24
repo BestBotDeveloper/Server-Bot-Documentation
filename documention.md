@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Zeroknights16/Server-Bot-Documentation2/blob/main/features.md">
     <img src="images/e9290f3ece1ec3239eb2c32b74675a25.webp" alt="Logo" width="80" height="80">
   </a>
 
@@ -88,7 +88,7 @@ Before installing the actual bot other apps have to be installed.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The usage of the bot can be found in the [documentation section](https://github.com/Zeroknights16/Ice_Dev_MC-Server_Bot) as well as the usage of our custom built in bot API. 
+The usage of the bot can be found in the [documentation section](https://github.com/Zeroknights16/Server-Bot-Documentation2/blob/main/features.md) as well as the usage of our custom built in bot API. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

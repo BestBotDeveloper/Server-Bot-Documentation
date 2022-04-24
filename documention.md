@@ -16,7 +16,7 @@
     <br />
     <a href="https://discord.gg/tsG2ZJW9"></strong></a>
     <br />
-    <a href="https://discord.gg/tsG2ZJW9">View Demo</a>
+    <a href="https://github.com/Zeroknights16/Server-Bot-Documentation2/blob/main/features.md">Docs</a>
     ·
     <a href="https://discord.gg/tsG2ZJW9">Report Bug</a>
     ·
